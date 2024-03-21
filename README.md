@@ -1,4 +1,4 @@
-# <center> Explorer - Land 01 </center>
+# <center> Explorer - Land 01
 
 ## :memo: <center> Desafio 01 (Corrigindo bugs)
 
