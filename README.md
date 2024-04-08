@@ -20,7 +20,7 @@ O desafio consite em corrigir um código recebido que sofreu alterações e deix
 
 ## 📄 Licença
 
-![](https://img.shields.io/badge/license-MIT-orange)
+![MIT License](https://img.shields.io/badge/license-MIT-orange)
 
 ## 🌎 Deploy
 
