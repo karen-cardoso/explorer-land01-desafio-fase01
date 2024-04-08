@@ -1,6 +1,6 @@
-# Explorer - Land 01
+<h1 align="center"> Explorer - Land 01 </h1>
 
-## <center> 📝 Desafio 01 (Corrigindo bugs) </center>
+<h2 align="center">  📝 Desafio 01 (Corrigindo bugs) </h2>
 
 O desafio consite em corrigir um código recebido que sofreu alterações e deixou o layout original quebrado.
 
