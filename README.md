@@ -24,4 +24,4 @@ O desafio consite em corrigir um código recebido que sofreu alterações e deix
 
 ## 🌎 Deploy
 
-![](https://img.shields.io/badge/
+[Clique aqui!](https://karen-cardoso.github.io/explorer-land01-desafio-fase01/)
