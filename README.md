@@ -1,4 +1,4 @@
-<h1 align="center"> Explorer - Land 01 </h1>
+<h1 align="center"> Explorer - Stage 02 </h1>
 
 <h2 align="center">  📝 Desafio 01 (Corrigindo bugs) </h2>
 
