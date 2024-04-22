@@ -18,10 +18,6 @@ O desafio consite em corrigir um código recebido que sofreu alterações e deix
   <li>Figma</li>
 </ul>
 
-## 📄 Licença
-
-![MIT License](https://img.shields.io/badge/license-MIT-orange)
-
 ## 🌎 Deploy
 
 [Clique aqui!](https://karen-cardoso.github.io/explorer-land01-desafio-fase01/)
